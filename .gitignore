@@ -1,0 +1,13 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
